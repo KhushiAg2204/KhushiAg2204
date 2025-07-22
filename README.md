@@ -1,4 +1,5 @@
 🌟 Hi there! I'm Khushi Agarwal 👋
+
 👀 Passionate About:
 I'm deeply passionate about web development and software engineering. I thrive on building innovative solutions from scratch and refining them to ensure they are both efficient and scalable. My goal is to create impactful applications that solve real-world problems.
 
@@ -21,5 +22,6 @@ GitHub: @KhushiAg2204
 LinkedIn: Khushi Agarwal
 
 😄 Pronouns: She/Her
+
 ⚡ Fun Fact:
 I love solving complex problems and optimizing code, whether it's algorithms or building full-stack applications from scratch. The thrill of finding the perfect solution is what keeps me going!
